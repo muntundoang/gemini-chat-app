@@ -44,6 +44,7 @@ Create a `.env.local` file in the root directory:
 
 ```bash
 GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_MODEL=gemini-2.5-flash
 ```
 
 To get your Gemini API key:
